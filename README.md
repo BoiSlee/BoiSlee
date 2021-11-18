@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <a href="https://twitter.com/BoiSlee" target="blank"><img src="https://img.shields.io/twitter/follow/boislee?logo=twitter&style=for-the-badge" alt="BoiSlee" /></a> </p> -->
 
-
+<!--
+MARKDOWN WAY
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/BoiSleeTZ)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BoiSlee)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/boislee)
@@ -28,8 +29,10 @@ Here are some ideas to get you started:
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://boislee.com)
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/BoiSlee)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/BoiSlee)
+-->
 
 
+<div align="center">
 <a href="https://facebook.com/BoiSleeTZ"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 <a href="https://twitter.com/BoiSlee"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 <a href="https://instagram.com/boislee"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -38,7 +41,7 @@ Here are some ideas to get you started:
 <a href="https://boislee.com"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
 <a href="https://www.snapchat.com/add/BoiSlee"> <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white">
 <a href="https://www.youtube.com/c/BoiSlee"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-
+</div>
 
 <p align="left"> <h3> Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=boislee&label=Profile%20views&color=0e75b6&style=flat" alt="BoiSlee" /> </h3> </p>
 
