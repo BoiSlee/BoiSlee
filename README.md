@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://boislee.com)
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/BoiSlee)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/BoiSlee)
+[![Spotify](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://open.spotify.com/artist/6QCOTpSbSpenQYjwvuUqhG)
 
 <p align="left"> <h3> Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=boislee&label=Profile%20views&color=0e75b6&style=flat" alt="BoiSlee" /> </h3> </p>
 
