@@ -61,6 +61,17 @@ MARKDOWN WAY
 
 <h3 align="left">🛠 Technologies and Tools:</h3>
 <p align="left"> 
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+  <img src="{BadgeURLHere}" />
+  <img src="{BadgeURLHere}" />
+  <img src="{BadgeURLHere}" />
+  <img src="{BadgeURLHere}" />
+  <img src="{BadgeURLHere}" />
+  <img src="{BadgeURLHere}" />
+  <img src="{BadgeURLHere}" />
+  
+  
+  <!--
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;
@@ -78,6 +89,7 @@ MARKDOWN WAY
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> &nbsp;
 </p>
+  -->
 <br>
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=boislee&show_icons=true&locale=en&bg_color=0D1117&border_color=30363D&text_color=9f9f9f" alt="BoiSlee" /></p>
