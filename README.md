@@ -62,13 +62,13 @@ MARKDOWN WAY
 <h3 align="left">🛠 Technologies and Tools:</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-  <img src="{BadgeURLHere}" />
-  <img src="{BadgeURLHere}" />
-  <img src="{BadgeURLHere}" />
-  <img src="{BadgeURLHere}" />
-  <img src="{BadgeURLHere}" />
-  <img src="{BadgeURLHere}" />
-  <img src="{BadgeURLHere}" />
+  <img src="BadgeURLHere" />
+  <img src="BadgeURLHere" />
+  <img src="BadgeURLHere" />
+  <img src="BadgeURLHere" />
+  <img src="BadgeURLHere" />
+  <img src="BadgeURLHere" />
+  <img src="BadgeURLHere" />
   
   
   <!--
