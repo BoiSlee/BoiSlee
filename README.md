@@ -43,7 +43,7 @@ MARKDOWN WAY
 <a href="https://www.youtube.com/c/BoiSlee"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </div>
 
-<p align="left"> <h3> Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=boislee&label=Profile%20views&color=0e75b6&style=flat" alt="BoiSlee" /> </h3> </p>
+<p align="left"> <h3>🎯 Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=boislee&label=Profile%20views&color=0e75b6&style=flat" alt="BoiSlee" /> </h3> </p>
 
 
 - 👨🏽‍💻 I’m currently exploring on **new things in technology.**
