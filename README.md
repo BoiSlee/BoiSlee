@@ -87,6 +87,18 @@ MARKDOWN WAY
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400" />
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+  <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+  <img src="BadgeURLHere" />
+  <img src="BadgeURLHere" />
+  <img src="BadgeURLHere" />
+  <img src="BadgeURLHere" />
+  <img src="BadgeURLHere" />
+  <img src="BadgeURLHere" />
+  <img src="BadgeURLHere" />
+  <img src="BadgeURLHere" />
+  <img src="BadgeURLHere" />
   <img src="BadgeURLHere" />
   <img src="BadgeURLHere" />
   
