@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">I'm an IT Student and a Passionate Tech Enthusiast.</h3>
 
 <p align="left"> <a href="https://twitter.com/BoiSlee" target="blank"><img src="https://img.shields.io/twitter/follow/boislee?logo=twitter&style=for-the-badge" alt="boislee" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=boislee&label=Profile%20views&color=0e75b6&style=flat" alt="BoiSlee" /> </p>
+<p align="left"> <h3> Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=boislee&label=Profile%20views&color=0e75b6&style=flat" alt="BoiSlee" /> </h3> </p>
 
 
 - 👨🏽‍💻 I’m currently exploring on **new things in technology.**
