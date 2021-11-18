@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Saleh.</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Saleh.</h1>
 <h3 align="center">I'm an IT Student and a Passionate Tech Enthusiast.</h3>
 
 <p align="left"> <a href="https://twitter.com/BoiSlee" target="blank"><img src="https://img.shields.io/twitter/follow/boislee?logo=twitter&style=for-the-badge" alt="BoiSlee" /></a> </p>
