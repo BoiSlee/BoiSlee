@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **anything, I'll be happy to help.**
 
-- ⚡ Fun fact **I enjoy playing games.**
+- 😄 Pronouns: **He/Him/His**
+
+- ⚡ Fun fact: **I enjoy playing games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
