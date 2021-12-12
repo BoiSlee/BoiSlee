@@ -46,7 +46,7 @@ MARKDOWN WAY
 
 - 😄 Pronouns: **He/Him/His**
 
-- ⚡ Fun fact: **I enjoy playing games.**
+- ⚡ Fun fact: **I enjoy music & playing games.**
 
 
 <h3 align="left">🛠 Technologies and Tools:</h3>
